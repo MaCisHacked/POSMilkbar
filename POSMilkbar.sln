@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSMilkbar", "POSMilkbar\POSMilkbar.csproj", "{88264FCB-1819-49EA-83E9-D79C5FB7DDEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88264FCB-1819-49EA-83E9-D79C5FB7DDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88264FCB-1819-49EA-83E9-D79C5FB7DDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88264FCB-1819-49EA-83E9-D79C5FB7DDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88264FCB-1819-49EA-83E9-D79C5FB7DDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16760188-6144-499F-A22D-3B818CDA9156}
+	EndGlobalSection
+EndGlobal
